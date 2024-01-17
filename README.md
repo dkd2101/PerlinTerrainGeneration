@@ -2,7 +2,7 @@
 
 ***Note: This project was transferred from a private repository as it was submittted as a part of Northeastern's CS4300 Computer Graphics class. This project was created in a 1-month timeline and has a much more complex commit history that is not represented in this repo.
 
-## YouTube/Dropbox/Drive Link: https://youtu.be/s-RPZjqrISE
+## YouTube Explanation Video: https://youtu.be/s-RPZjqrISE
 
 [![Mountains.png](https://i.postimg.cc/d0prSR40/Mountains.png)](https://postimg.cc/FfbYYStt)
 [![Hills.png](https://i.postimg.cc/N0YW2T15/Hills.png)](https://postimg.cc/gxSMfxtW)
