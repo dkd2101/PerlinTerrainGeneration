@@ -8,13 +8,13 @@
 [![Hills.png](https://i.postimg.cc/N0YW2T15/Hills.png)](https://postimg.cc/gxSMfxtW)
 [![CloseUp.png](https://i.postimg.cc/W3sTVC9Y/CloseUp.png)](https://postimg.cc/yJpwXQC0)
 
-##About
+## About
 A random terrain Generator using OpenGL library and C++. Upon startup the program generates a Perlin ppm image and passes that as a texture into OpenGL to use as a height map to render terrains. A custom shader blends together passed in textures together based off of the height of the pixel in the scene. Smooth camera movement with up, down, and cursor looking are implemented to traverse the terrain. 
 
 Two types of Perlin generation are used, fractal brownian and non-fractal brownian generation. Fractal brownian motion allows more jagged and varying heights wheresas non-fractal brownian gives a more hill-like terrain very smooth with lots of valleys and peaks.
 
 
 
-##Team Members
+## Team Members
   *Linwood Blaisdell*
   *Dylan Dinio*
